@@ -1,0 +1,11 @@
+Fitter Status : Successful - Fri Dec 13 09:34:13 2024
+Quartus Prime Version : 22.1std.0 Build 915 10/25/2022 SC Lite Edition
+Revision Name : MaquinaMultiplos3
+Top-level Entity Name : MaquinaMultiplos3
+Family : MAX II
+Device : EPM240T100C5
+Timing Models : Final
+Total logic elements : 65 / 240 ( 27 % )
+Total pins : 19 / 80 ( 24 % )
+Total virtual pins : 0
+UFM blocks : 0 / 1 ( 0 % )
